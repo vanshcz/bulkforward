@@ -1639,7 +1639,7 @@ graph LR
 Click "Fork" on GitHub
 
 # 2️⃣ Clone Your Fork
-git clone https://github.com/YOUR_USERNAME/bulkforward.git
+git clone https://github.com/vanshcz/bulkforward.git
 cd bulkforward
 
 # 3️⃣ Create Feature Branch
@@ -1858,7 +1858,7 @@ Let us know!
 
 <img src="https://img.shields.io/badge/Telegram-Community-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 
-[@skullmodders](https://t.me/skullmodders)
+[@Skullmodder](https://t.me/Skullmodder)
 
 Get instant
 support!
@@ -2262,7 +2262,7 @@ and users
   <a href="https://github.com/vanshcz/bulkforward/pulls">
     <img src="https://img.shields.io/badge/💡-Request%20Feature-green?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/skullmodders">
+  <a href="https://t.me/Skullmodder">
     <img src="https://img.shields.io/badge/💬-Join%20Community-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
@@ -2272,8 +2272,8 @@ and users
   <a href="https://github.com/vanshcz">
     <img src="https://img.shields.io/badge/GitHub-vanshcz-black?style=social&logo=github"/>
   </a>
-  <a href="https://t.me/skullmodders">
-    <img src="https://img.shields.io/badge/Telegram-@skullmodders-blue?style=social&logo=telegram"/>
+  <a href="https://t.me/Skullmodder">
+    <img src="https://img.shields.io/badge/Telegram-@Skullmodder-blue?style=social&logo=telegram"/>
   </a>
 </p>
 
